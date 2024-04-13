@@ -5,7 +5,7 @@ Classification of Beer Recipe Data into Segments
 
 # Project Overview
 
-This project focused on exploring and analyzing beer recipes to uncover insights that can enhance the brewing process and beer quality. The project utilizes machine learning algorithms and statistical analysis to classify beer recipes into segments, clusters, or classes, providing valuable insights for brewers and beer enthusiasts. It aims to provide valuable insights into beer recipes and brewing techniques, helping brewers improve their craft and beer enthusiasts discover new and exciting recipes.
+This project focused on exploring and analyzing beer recipes to uncover insights that can enhance the brewing process and beer quality. The project utilizes Unsupervised Learning algorithms and statistical analysis to classify beer recipes into segments, clusters, or classes, providing valuable insights for brewers and beer enthusiasts. It aims to provide valuable insights into beer recipes and brewing techniques, helping brewers improve their craft and beer enthusiasts discover new and exciting recipes.
 
 ## Project Objectives
 1. **Classification of Beer Recipes:** Use machine learning to classify beer recipes into segments, clusters, or classes based on various features.
