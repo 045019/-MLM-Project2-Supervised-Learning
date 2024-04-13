@@ -2,7 +2,6 @@
 
 Classification of Beer Recipe Data into Segments
 
----
 
 # Project Overview
 
