@@ -17,7 +17,7 @@ This project focused on exploring and analyzing beer recipes to uncover insights
 # Description of files related to the project 
 
 * beerwcl_data.zip : The compressed folder containing the dataset
-* beerwcl_data.csv : The dataset used in this project consisting of the original dataset and cluster labels from previous project on Unsupervised Learning 
+* beerwcl_data.csv : The dataset consisting of the original dataset and cluster labels (obtained from a previous project on Unsupervised Learning)
 * BeerSegmentation_SLM.ipynb : The notebook consisting of compiled codes, outputs and detailed report
 
 
